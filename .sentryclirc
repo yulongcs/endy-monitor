@@ -1,0 +1,8 @@
+[defaults]
+url=http://localhost:9000/
+org=endy-sentry
+project=endy-monitor-vue
+
+
+[auth]
+token=0510b7a58f934fc39ecd1afc84acb2bf11fe9231d6174ad4a988615e24697595
